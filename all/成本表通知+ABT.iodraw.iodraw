@@ -210,7 +210,7 @@
         <mxCell id="6z2-TdmSQ_yiYAj2e2gx-7" value="取消AB图测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="745" y="1460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6z2-TdmSQ_yiYAj2e2gx-10" value="发送邮件：……测试已取消，请人工继续优化点击率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6z2-TdmSQ_yiYAj2e2gx-10" value="发送邮件：不合格" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="905" y="1460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6z2-TdmSQ_yiYAj2e2gx-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6z2-TdmSQ_yiYAj2e2gx-12" target="6z2-TdmSQ_yiYAj2e2gx-13">
@@ -247,7 +247,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6z2-TdmSQ_yiYAj2e2gx-22" value="测试图与首图点击UV&amp;gt;=50，且首图点击率大于测试图点击率（首图点击率小于2%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="562" y="1370" width="123" height="70" as="geometry" />
+          <mxGeometry x="558.5" y="1370" width="123" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6z2-TdmSQ_yiYAj2e2gx-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6z2-TdmSQ_yiYAj2e2gx-23" target="6z2-TdmSQ_yiYAj2e2gx-24">
           <mxGeometry relative="1" as="geometry" />
