@@ -180,8 +180,14 @@
         <mxCell id="NJGh_x_s0xrVnveKe0Jj-67" value="此时需人工关注测试结果" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1096.5" y="1030" width="105" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="6z2-TdmSQ_yiYAj2e2gx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6z2-TdmSQ_yiYAj2e2gx-0" target="6z2-TdmSQ_yiYAj2e2gx-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6z2-TdmSQ_yiYAj2e2gx-0" value="测试图与首图点击UV&amp;gt;=50，且首图点击率小于测试图点击率（测试图点击率小于2%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="552" y="1120" width="124" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6z2-TdmSQ_yiYAj2e2gx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6z2-TdmSQ_yiYAj2e2gx-1" target="6z2-TdmSQ_yiYAj2e2gx-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6z2-TdmSQ_yiYAj2e2gx-1" value="更换AB图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="734" y="1125" width="120" height="60" as="geometry" />
