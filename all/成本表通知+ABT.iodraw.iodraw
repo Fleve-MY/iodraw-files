@@ -213,6 +213,9 @@
         <mxCell id="6z2-TdmSQ_yiYAj2e2gx-10" value="发送邮件：……测试已取消，请人工继续优化点击率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="904" y="1390" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6z2-TdmSQ_yiYAj2e2gx-12" value="测试图与首图点击UV&amp;gt;=50，且首图点击率小于测试图点击率（测试图点击率小于2%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="564" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
