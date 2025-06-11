@@ -264,10 +264,13 @@
         <mxCell id="6z2-TdmSQ_yiYAj2e2gx-29" value="测试图与首图点击UV&amp;lt;50，测试满七天，且首图点击率大于测试图点击率（首图点击率小于2%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="559" y="1550" width="148" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6z2-TdmSQ_yiYAj2e2gx-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6z2-TdmSQ_yiYAj2e2gx-30" target="6z2-TdmSQ_yiYAj2e2gx-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6z2-TdmSQ_yiYAj2e2gx-30" value="取消AB图测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="745" y="1550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6z2-TdmSQ_yiYAj2e2gx-32" value="发送邮件：" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6z2-TdmSQ_yiYAj2e2gx-32" value="发送邮件：……测试已取消，请人工继续优化点击率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="904" y="1550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
