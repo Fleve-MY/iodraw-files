@@ -219,6 +219,9 @@
         <mxCell id="6z2-TdmSQ_yiYAj2e2gx-13" value="更换AB图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="744" y="1135" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6z2-TdmSQ_yiYAj2e2gx-14" value="不合格" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="904" y="1135" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
