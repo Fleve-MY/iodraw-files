@@ -237,8 +237,8 @@
         <mxCell id="6z2-TdmSQ_yiYAj2e2gx-19" value="发送邮件：不合格" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="904" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6z2-TdmSQ_yiYAj2e2gx-20" value="测试图与首图点击UV&amp;lt;50，满七天，且首图点击率小于测试图点击率（测试图点击率于2%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="562" y="1470" width="138" height="60" as="geometry" />
+        <mxCell id="6z2-TdmSQ_yiYAj2e2gx-20" value="测试图与首图点击UV&amp;lt;50，满七天，且首图点击率小于测试图点击率（测试图点击率大于2%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="562" y="1470" width="148" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
