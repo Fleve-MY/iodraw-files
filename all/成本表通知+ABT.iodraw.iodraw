@@ -195,7 +195,7 @@
         <mxCell id="6z2-TdmSQ_yiYAj2e2gx-2" value="发送邮件：…………不合格" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="894" y="1125" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6z2-TdmSQ_yiYAj2e2gx-6" value="测试图与首图点击UV&amp;gt;=50，测试满七天，且首图点击率大于测试图点击率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6z2-TdmSQ_yiYAj2e2gx-6" value="测试图与首图点击UV&amp;lt;50，测试满七天，且首图点击率大于测试图点击率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="552" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
