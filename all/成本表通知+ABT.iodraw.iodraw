@@ -180,8 +180,11 @@
         <mxCell id="6z2-TdmSQ_yiYAj2e2gx-0" value="测试图与首图点击UV&amp;gt;=50，且首图点击率小于测试图点击率（测试图点击率小于2%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="552" y="1200" width="124" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6z2-TdmSQ_yiYAj2e2gx-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6z2-TdmSQ_yiYAj2e2gx-1" value="更换AB图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="734" y="1205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6z2-TdmSQ_yiYAj2e2gx-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="894" y="1205" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
