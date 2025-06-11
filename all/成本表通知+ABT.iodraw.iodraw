@@ -124,31 +124,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NJGh_x_s0xrVnveKe0Jj-41" value="测试时长满七天" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="562" y="1315" width="120" height="60" as="geometry" />
+          <mxGeometry x="562" y="1475" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NJGh_x_s0xrVnveKe0Jj-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NJGh_x_s0xrVnveKe0Jj-42" target="NJGh_x_s0xrVnveKe0Jj-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NJGh_x_s0xrVnveKe0Jj-42" value="测试图与首图点击UV&amp;gt;=50，且首图点击率大于测试图点击率" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="562" y="1140" width="120" height="60" as="geometry" />
+          <mxGeometry x="562" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NJGh_x_s0xrVnveKe0Jj-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NJGh_x_s0xrVnveKe0Jj-43" target="NJGh_x_s0xrVnveKe0Jj-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NJGh_x_s0xrVnveKe0Jj-43" value="发送邮件：SKC号为XXX的AB图点击率……&lt;span style=&quot;background-color: initial;&quot;&gt;已取消测试！！！&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="892" y="1135" width="140" height="70" as="geometry" />
+          <mxGeometry x="892" y="1295" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NJGh_x_s0xrVnveKe0Jj-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NJGh_x_s0xrVnveKe0Jj-44" target="NJGh_x_s0xrVnveKe0Jj-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NJGh_x_s0xrVnveKe0Jj-44" value="发送邮件：SKC号为XXX的AB图……测试时长已满七天，已停止测试！！！" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="902" y="1315" width="120" height="60" as="geometry" />
+          <mxGeometry x="902" y="1475" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NJGh_x_s0xrVnveKe0Jj-47" value="此时需要手动更换测试图" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1102" y="1130" width="110" height="80" as="geometry" />
+          <mxGeometry x="1102" y="1290" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NJGh_x_s0xrVnveKe0Jj-54" value="此时测试正常完成" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1109.5" y="1310" width="95" height="70" as="geometry" />
+          <mxGeometry x="1109.5" y="1470" width="95" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NJGh_x_s0xrVnveKe0Jj-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NJGh_x_s0xrVnveKe0Jj-56" target="NJGh_x_s0xrVnveKe0Jj-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -166,13 +166,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NJGh_x_s0xrVnveKe0Jj-58" value="取消AB图测试" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="742" y="1315" width="120" height="60" as="geometry" />
+          <mxGeometry x="742" y="1475" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NJGh_x_s0xrVnveKe0Jj-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NJGh_x_s0xrVnveKe0Jj-61" target="NJGh_x_s0xrVnveKe0Jj-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NJGh_x_s0xrVnveKe0Jj-61" value="取消AB图测试" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="742" y="1140" width="120" height="60" as="geometry" />
+          <mxGeometry x="742" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NJGh_x_s0xrVnveKe0Jj-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NJGh_x_s0xrVnveKe0Jj-64" target="NJGh_x_s0xrVnveKe0Jj-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -202,16 +202,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6z2-TdmSQ_yiYAj2e2gx-6" value="测试图与首图点击UV&amp;lt;50，测试满七天，且首图点击率大于测试图点击率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="562" y="1230" width="120" height="60" as="geometry" />
+          <mxGeometry x="562" y="1390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6z2-TdmSQ_yiYAj2e2gx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6z2-TdmSQ_yiYAj2e2gx-7" target="6z2-TdmSQ_yiYAj2e2gx-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6z2-TdmSQ_yiYAj2e2gx-7" value="取消AB图测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="744" y="1230" width="120" height="60" as="geometry" />
+          <mxGeometry x="744" y="1390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6z2-TdmSQ_yiYAj2e2gx-10" value="发送邮件：……测试已取消，请人工继续优化点击率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="904" y="1230" width="120" height="60" as="geometry" />
+          <mxGeometry x="904" y="1390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
