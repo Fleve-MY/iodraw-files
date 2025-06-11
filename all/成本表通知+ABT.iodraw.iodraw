@@ -177,7 +177,7 @@
         <mxCell id="NJGh_x_s0xrVnveKe0Jj-67" value="此时需人工关注测试结果" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1096.5" y="1110" width="105" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6z2-TdmSQ_yiYAj2e2gx-0" value="测试图与首图点击UV&amp;gt;=50，且首图点击率小于测试图点击率（测试图点击率大于2%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6z2-TdmSQ_yiYAj2e2gx-0" value="测试图与首图点击UV&amp;gt;=50，且首图点击率小于测试图点击率（测试图点击率小于2%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="552" y="1200" width="124" height="70" as="geometry" />
         </mxCell>
       </root>
