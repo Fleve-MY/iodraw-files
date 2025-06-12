@@ -10,8 +10,19 @@
         <mxCell id="6FtPf8F5GV2uYWpqnJ1n-1" value="数据库前置抓取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6FtPf8F5GV2uYWpqnJ1n-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6FtPf8F5GV2uYWpqnJ1n-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6FtPf8F5GV2uYWpqnJ1n-2" target="6FtPf8F5GV2uYWpqnJ1n-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6FtPf8F5GV2uYWpqnJ1n-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6FtPf8F5GV2uYWpqnJ1n-5">
+          <mxGeometry x="-0.2222" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6FtPf8F5GV2uYWpqnJ1n-2" value="是否完成" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6FtPf8F5GV2uYWpqnJ1n-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
