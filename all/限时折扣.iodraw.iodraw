@@ -50,7 +50,7 @@
         <mxCell id="6FtPf8F5GV2uYWpqnJ1n-30" value="以3-2-3-2对每个商品进行活动时间选取，每次活动开始与衔接时间为23：59" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6FtPf8F5GV2uYWpqnJ1n-32" value="进行商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6FtPf8F5GV2uYWpqnJ1n-32" value="进行商品添加" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
