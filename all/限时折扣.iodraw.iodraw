@@ -81,7 +81,7 @@
         <mxCell id="6FtPf8F5GV2uYWpqnJ1n-44" value="依3-2-3-2创建四次活动" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="585" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KX826gZ6PeIhFedGPXM--1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KX826gZ6PeIhFedGPXM--1" value="降幅20%，活动库存3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
