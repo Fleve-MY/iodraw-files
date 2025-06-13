@@ -106,7 +106,7 @@
           <mxGeometry x="910" y="260" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="vjHChkvZlSntkg8U8u1o-1" value="尾款备货建议通知" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="460" y="28" width="120" height="30" as="geometry" />
+          <mxGeometry x="480" y="28" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
