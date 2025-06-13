@@ -9,7 +9,7 @@
         </mxCell>
         <mxCell id="x6P7pLqWwfhIUxh1KY2T-6" value="上架天数=10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x6P7pLqWwfhIUxh1KY2T-4">
           <mxGeometry x="-0.0222" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="2" y="47" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x6P7pLqWwfhIUxh1KY2T-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="x6P7pLqWwfhIUxh1KY2T-1" target="x6P7pLqWwfhIUxh1KY2T-3">
@@ -24,13 +24,13 @@
           <mxGeometry x="50" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x6P7pLqWwfhIUxh1KY2T-2" value="0&amp;lt;合计销量&amp;lt;10" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x6P7pLqWwfhIUxh1KY2T-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x6P7pLqWwfhIUxh1KY2T-8" value="提示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x6P7pLqWwfhIUxh1KY2T-9" value="提示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="360" width="120" height="60" as="geometry" />
