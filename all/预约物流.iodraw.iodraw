@@ -13,6 +13,9 @@
         <mxCell id="hbdT7KJth1fsKIhjDxAi-2" value="每个店铺特定商品通过读取其在成本表中的地址简称、物流公司、发货时间来补全发货信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="414" y="335" width="276" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="Sno6e08EYgKVC8yLiduT-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
