@@ -41,10 +41,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rGW8qGLX4bb57WXwzqhH-6" value="数据、表单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="70" width="50" height="20" as="geometry" />
+          <mxGeometry x="450" y="70" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rGW8qGLX4bb57WXwzqhH-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="70" width="50" height="20" as="geometry" />
+        <mxCell id="rGW8qGLX4bb57WXwzqhH-7" value="手动插入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="70" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
