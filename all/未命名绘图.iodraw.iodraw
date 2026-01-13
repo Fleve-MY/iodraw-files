@@ -70,11 +70,11 @@
         <mxCell id="K31F1v9d5g-uFjG2e5DL-8" value="keyword" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1500" y="395" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="K31F1v9d5g-uFjG2e5DL-9" value="search" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K31F1v9d5g-uFjG2e5DL-9" value="time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1640" y="395" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K31F1v9d5g-uFjG2e5DL-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2050" y="395" width="62" height="20" as="geometry" />
+          <mxGeometry x="2068" y="395" width="62" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K31F1v9d5g-uFjG2e5DL-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2140" y="395" width="62" height="20" as="geometry" />
