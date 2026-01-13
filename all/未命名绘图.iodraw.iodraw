@@ -46,8 +46,11 @@
         <mxCell id="rGW8qGLX4bb57WXwzqhH-7" value="手动插入" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="70" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Tp9QjamPZaLmuRFJEGjs-1" value="RPA信息记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Tp9QjamPZaLmuRFJEGjs-1" value="RPA信息记录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="70" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="K31F1v9d5g-uFjG2e5DL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
