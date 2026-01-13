@@ -79,7 +79,7 @@
         <mxCell id="K31F1v9d5g-uFjG2e5DL-13" value="reset" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2140" y="395" width="62" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="K31F1v9d5g-uFjG2e5DL-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K31F1v9d5g-uFjG2e5DL-14" value="export" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2210" y="395" width="62" height="20" as="geometry" />
         </mxCell>
       </root>
