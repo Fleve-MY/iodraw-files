@@ -88,6 +88,12 @@
         <mxCell id="K31F1v9d5g-uFjG2e5DL-17" value="1 / XX" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2170" y="720" width="110" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="wH51uXBNpd2fvHepv5ja-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="940" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wH51uXBNpd2fvHepv5ja-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="555" y="1028" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
