@@ -211,6 +211,9 @@
         <mxCell id="QxIcdGSZxGUp9kBTw_Y--10" value="最新统计时间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1110" y="2325" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QxIcdGSZxGUp9kBTw_Y--11" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="2338" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
