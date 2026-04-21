@@ -196,8 +196,8 @@
         <mxCell id="QxIcdGSZxGUp9kBTw_Y--4" value="SKU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="2325" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QxIcdGSZxGUp9kBTw_Y--5" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="780" y="2490" width="60" height="30" as="geometry" />
+        <mxCell id="QxIcdGSZxGUp9kBTw_Y--5" value="店铺" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="2325" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
