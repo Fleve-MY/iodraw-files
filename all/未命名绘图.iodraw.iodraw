@@ -214,6 +214,9 @@
         <mxCell id="QxIcdGSZxGUp9kBTw_Y--11" value="详细趋势图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1270" y="2325" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QxIcdGSZxGUp9kBTw_Y--13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="2320" width="1240" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
