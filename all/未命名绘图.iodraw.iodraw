@@ -199,6 +199,9 @@
         <mxCell id="QxIcdGSZxGUp9kBTw_Y--5" value="店铺" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="2325" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QxIcdGSZxGUp9kBTw_Y--6" value="销量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="2325" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
