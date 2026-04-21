@@ -197,10 +197,10 @@
           <mxGeometry x="310" y="2325" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QxIcdGSZxGUp9kBTw_Y--5" value="店铺" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="470" y="2325" width="60" height="30" as="geometry" />
+          <mxGeometry x="650" y="2325" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QxIcdGSZxGUp9kBTw_Y--6" value="销量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="630" y="2325" width="60" height="30" as="geometry" />
+          <mxGeometry x="850" y="2325" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QxIcdGSZxGUp9kBTw_Y--7" value="销售额" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="960" y="2325" width="60" height="30" as="geometry" />
